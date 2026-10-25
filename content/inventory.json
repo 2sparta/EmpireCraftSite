@@ -1,0 +1,1035 @@
+{
+  "source": {
+    "repository": "2sparta/Empirecraft",
+    "commit": "0615ee290e54a2ba714c56940da77316a77dfad1",
+    "date": "2026-10-25"
+  },
+  "mods": [
+    {
+      "name": "accuratehitboxes",
+      "file": "accuratehitboxes-neoforge-2.4.2-1.20.1.jar",
+      "version": "NeoForge_Forge-2.4.2-1.20.1",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "admanticheat",
+      "file": "admanticheat-1.9.3-RELEASE.jar",
+      "version": "1.9.3",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "aiimprovements",
+      "file": "AI-Improvements-1.20-0.5.2.jar",
+      "version": "0.5.2",
+      "sides": [
+        "server"
+      ]
+    },
+    {
+      "name": "alternate_current",
+      "file": "alternate_current-mc1.20-1.7.0.jar",
+      "version": "1.7.0",
+      "sides": [
+        "server"
+      ]
+    },
+    {
+      "name": "amendments",
+      "file": "amendments-1.20-2.2.6.jar",
+      "version": "1.20-2.2.6",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "antixray",
+      "file": "antixray-forge-1.4.6+1.20.1.jar",
+      "version": "1.4.6",
+      "sides": [
+        "server"
+      ]
+    },
+    {
+      "name": "anvilrepairing",
+      "file": "AnvilRepairing-Forge-1.20.1-4.0.10.jar",
+      "version": "4.0.10",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "architectury",
+      "file": "architectury-9.2.14-forge.jar",
+      "version": "9.2.14",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "astikorcarts",
+      "file": "astikorcarts-1.20.1-1.1.8 (1).jar",
+      "version": "1.1.8",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "athena",
+      "file": "athena-forge-1.20.1-3.1.2.jar",
+      "version": "3.1.2",
+      "sides": [
+        "client"
+      ]
+    },
+    {
+      "name": "betsyross-2.1.2+mc.1.20.1-forge",
+      "file": "betsyross-2.1.2+mc.1.20.1-forge.jar",
+      "version": "",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "bettercombat",
+      "file": "bettercombat-forge-1.9.0+1.20.1.jar",
+      "version": "1.9.0+1.20.1",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "brewinandchewin",
+      "file": "BrewinAndChewin-1.20.1-3.2.1 (1).jar",
+      "version": "1.20.1-3.2.1",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "callablehorses",
+      "file": "callablehorses-1.20.1-1.3.0.1.jar",
+      "version": "1.3.0.1",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "caupona",
+      "file": "caupona-1.20.1-0.4.14.jar",
+      "version": "1.20.1-0.4.14",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "chatplus",
+      "file": "chatplus-forge-2.8.1 (5).jar",
+      "version": "2.8.1",
+      "sides": [
+        "client"
+      ]
+    },
+    {
+      "name": "chipped",
+      "file": "chipped-forge-1.20.1-3.0.7.jar",
+      "version": "3.0.7",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "chippedexttras",
+      "file": "chippedexttras-1.4.jar",
+      "version": "1.4",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "cloth_config",
+      "file": "cloth-config-11.1.136-forge.jar",
+      "version": "11.1.136",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "clumps",
+      "file": "Clumps-forge-1.20.1-12.0.0.4.jar",
+      "version": "12.0.0.4",
+      "sides": [
+        "server"
+      ]
+    },
+    {
+      "name": "combatlog",
+      "file": "combatlog-2.8.4-forge+1.20.1.jar",
+      "version": "2.8.4-forge+1.20.1",
+      "sides": [
+        "server"
+      ]
+    },
+    {
+      "name": "contact",
+      "file": "Contact-forge-1.2.3.jar",
+      "version": "1.2.3",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "coolrain",
+      "file": "coolrain-1.20.1-Forge-1.0.3.jar",
+      "version": "1.0.3",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "copycats-3.0.10+mc.1.20.1-forge",
+      "file": "copycats-3.0.10+mc.1.20.1-forge.jar",
+      "version": "",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "coroutil",
+      "file": "coroutil-forge-1.20.1-1.3.7.jar",
+      "version": "1.20.1-1.3.7",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "corpse",
+      "file": "corpse-forge-1.20.1-1.0.23.jar",
+      "version": "1.20.1-1.0.23",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "create",
+      "file": "create-1.20.1-6.0.8-medieval.2.jar",
+      "version": "6.0.8-medieval.2",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "dawnoftimebuilder",
+      "file": "dawnoftimebuilder-forge-1.20.1-1.5.42.jar",
+      "version": "1.5.42",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "decorative_blocks",
+      "file": "decorative_blocks-forge-1.20.1-4.1.3.jar",
+      "version": "4.1.3",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "DragNs_Livestock_Overhaul-1.20.1-3.9.4",
+      "file": "DragNs_Livestock_Overhaul-1.20.1-3.9.4.jar",
+      "version": "",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "dumplings_delight",
+      "file": "Dumplings Delight-1.20.1-Forge-1.3.2.jar",
+      "version": "1.3.2",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "dynamic_fps",
+      "file": "dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
+      "version": "3.11.4",
+      "sides": [
+        "client"
+      ]
+    },
+    {
+      "name": "ecologics",
+      "file": "ecologics-forge-1.20.1-2.2.7.jar",
+      "version": "2.2.7-Forge",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "embeddium",
+      "file": "embeddium-0.3.31+mc1.20.1.jar",
+      "version": "0.3.31+mc1.20.1",
+      "sides": [
+        "client"
+      ]
+    },
+    {
+      "name": "emotecraft",
+      "file": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+      "version": "2.2.7-b.build.50",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "empirecraft_calendar",
+      "file": "empirecraft-calendar-1.1.1.jar",
+      "version": "1.1.1",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "empirecraft_claim_guard",
+      "file": "empirecraft-claim-guard-1.0.0.jar",
+      "version": "1.0.0",
+      "sides": [
+        "server"
+      ]
+    },
+    {
+      "name": "empirecraft_locks_compat",
+      "file": "empirecraft-locks-compat-1.0.0.jar",
+      "version": "1.0.0",
+      "sides": [
+        "server"
+      ]
+    },
+    {
+      "name": "empirecraft_townymap",
+      "file": "empirecraft-towny-journeymap-1.1.0.jar",
+      "version": "1.1.0",
+      "sides": [
+        "client"
+      ]
+    },
+    {
+      "name": "empirecraft-towny-journeymap-1.1.1",
+      "file": "empirecraft-towny-journeymap-1.1.1.jar",
+      "version": "",
+      "sides": [
+        "server"
+      ]
+    },
+    {
+      "name": "empirecraft_world_rules",
+      "file": "empirecraft-world-rules-1.0.2.jar",
+      "version": "1.0.2",
+      "sides": [
+        "server"
+      ]
+    },
+    {
+      "name": "entityculling",
+      "file": "entityculling-forge-1.11.3-mc1.20.1.jar",
+      "version": "1.11.3",
+      "sides": [
+        "client"
+      ]
+    },
+    {
+      "name": "magistuarmory",
+      "file": "epic-knights-all-in-one-1_20_1-forge (1).jar",
+      "version": "10.10",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "etched",
+      "file": "etched-3.0.4.jar",
+      "version": "3.0.4",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "farmersdelight",
+      "file": "FarmersDelight-1.20.1-1.2.11a.jar",
+      "version": "1.20.1-1.2.11a",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "farmersrespite",
+      "file": "farmersrespite-1.20.1-2.1.2.jar",
+      "version": "1.20.1-2.1",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "fastfurnace",
+      "file": "FastFurnace-1.20.1-8.0.2.jar",
+      "version": "8.0.2",
+      "sides": [
+        "server"
+      ]
+    },
+    {
+      "name": "ferritecore",
+      "file": "ferritecore-6.0.1-forge.jar",
+      "version": "6.0.1",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "fruitsdelight",
+      "file": "fruitsdelight-1.1.3.jar",
+      "version": "1.1.3",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "geckolib",
+      "file": "geckolib-forge-1.20.1-4.8.4.jar",
+      "version": "4.8.4",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "genshinstrument",
+      "file": "genshinstrument-1.20-1.20.1-5.0.jar",
+      "version": "5.0",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "glitchcore",
+      "file": "GlitchCore-forge-1.20.1-0.0.1.1 (1).jar",
+      "version": "0.0.1.1",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "hearth_and_home",
+      "file": "hearth_and_home-forge-1.20.1-2.0.3.jar",
+      "version": "1.20.1-2.0.3",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "immediatelyfast",
+      "file": "ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+      "version": "1.5.5+1.20.4-forge",
+      "sides": [
+        "client"
+      ]
+    },
+    {
+      "name": "immersive_melodies-0.8.0+1.20.1-forge",
+      "file": "immersive_melodies-0.8.0+1.20.1-forge.jar",
+      "version": "",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "immersive_paintings",
+      "file": "immersive_paintings-0.6.13+1.20.1-forge.jar",
+      "version": "0.6.13+1.20.1",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "jade",
+      "file": "Jade-1.20.1-Forge-11.13.3.jar",
+      "version": "11.13.3+forge",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "jei",
+      "file": "jei-1.20.1-forge-15.56.0.205.jar",
+      "version": "15.56.0.205",
+      "sides": [
+        "client"
+      ]
+    },
+    {
+      "name": "journeymap",
+      "file": "journeymap-forge-1.20.1-6.0.7.jar",
+      "version": "1.20.1-6.0.7+forge",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "konkrete",
+      "file": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "version": "1.8.0",
+      "sides": [
+        "client"
+      ]
+    },
+    {
+      "name": "kotlinforforge",
+      "file": "kotlinforforge-4.12.0-all (1).jar",
+      "version": "4.12.0",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "kubejs",
+      "file": "kubejs-forge-2001.6.5-build.26.jar",
+      "version": "2001.6.5-build.26+forge",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "doapi",
+      "file": "letsdo-API-forge-1.2.15-forge.jar",
+      "version": "1.2.15",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "vinery",
+      "file": "letsdo-vinery-forge-1.4.41.jar",
+      "version": "1.4.41",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "locks",
+      "file": "Locks-SteelOnly-forge-1_20_1-1_2_4_nogen (1).jar",
+      "version": "1.20.1-1.2.4",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "mcwdoors",
+      "file": "mcw-doors-1.1.5-mc1.20.1forge.jar",
+      "version": "1.1.5",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "mcwfurnitures",
+      "file": "mcw-furniture-3.4.1-mc1.20.1forge.jar",
+      "version": "3.4.1",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "mcwfences",
+      "file": "mcw-mcwfences-1.2.1-mc1.20.1forge.jar",
+      "version": "1.2.1",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "mcwstairs",
+      "file": "mcw-mcwstairs-1.0.2-mc1.20.1forge.jar",
+      "version": "1.0.2",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "mcwwindows",
+      "file": "mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
+      "version": "2.4.2",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "mcwroofs",
+      "file": "mcw-roofs-2.3.2-mc1.20.1forge.jar",
+      "version": "2.3.2",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "mcwtrpdoors",
+      "file": "mcw-trapdoors-1.1.5-mc1.20.1forge.jar",
+      "version": "1.1.5",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "medieval_deco",
+      "file": "Medieval Decoration v.1.2 1.20.1.jar",
+      "version": "1.2",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "medieval_boomsticks",
+      "file": "medieval_boomsticks-no_stars (8).jar",
+      "version": "1.0",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "medieval_paintings",
+      "file": "medieval_paintings-1.20-7.0.jar",
+      "version": "7.0",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "melody",
+      "file": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "version": "1.0.2",
+      "sides": [
+        "client"
+      ]
+    },
+    {
+      "name": "memoryleakfix",
+      "file": "memoryleakfix-forge-1.17+-1.1.5.jar",
+      "version": "1.1.5",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "modernfix",
+      "file": "modernfix-forge-5.27.89+mc1.20.1.jar",
+      "version": "5.27.89+mc1.20.1",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "moonlight",
+      "file": "moonlight-1.20-2.16.37-forge.jar",
+      "version": "1.20-2.16.37-forge",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "musketmod",
+      "file": "musketmod-1.20.1-forge-1.5.4.jar",
+      "version": "1.5.4",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "naturalist",
+      "file": "naturalist-5.0pre5+forge-1.20.1.jar",
+      "version": "5.0pre5",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "nirvana",
+      "file": "nirvana-forge-1.2.5 (1).jar",
+      "version": "1.2.5",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "noisium",
+      "file": "noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+      "version": "2.3.0+mc1.20-1.20.1",
+      "sides": [
+        "server"
+      ]
+    },
+    {
+      "name": "oelib",
+      "file": "OELib-forge-1.20.1-0.2.4.1.jar",
+      "version": "0.2.4.1",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "ok_zoomer",
+      "file": "ok_zoomer-forge-5.4.0-beta.9.jar",
+      "version": "5.4.0-beta.9",
+      "sides": [
+        "client"
+      ]
+    },
+    {
+      "name": "overgeared",
+      "file": "overgeared-forge-1.20.1-1.6.36.jar",
+      "version": "forge-1.20.1-1.6.36",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "Patchouli-1.20.1-85-FORGE",
+      "file": "Patchouli-1.20.1-85-FORGE.jar",
+      "version": "",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "placebo",
+      "file": "Placebo-1.20.1-8.6.3.jar",
+      "version": "8.6.3",
+      "sides": [
+        "server"
+      ]
+    },
+    {
+      "name": "playeranimator",
+      "file": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "version": "1.0.2-rc1+1.20",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "polytone",
+      "file": "polytone-1.20-3.5.26.jar",
+      "version": "1.20-3.5.26",
+      "sides": [
+        "client"
+      ]
+    },
+    {
+      "name": "pop_up_emotes",
+      "file": "pop_up_emotes-1.5.6.jar",
+      "version": "1.5.6",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "quickskin",
+      "file": "Quick Skin - Forge - 1.20.1-3.1.1.jar",
+      "version": "mc1.20.1-v3.1.1-forge-1.20.1",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "horse_colors",
+      "file": "realistic_horse_genetics-1.20.1-13.5.jar",
+      "version": "1.20.1-13.5",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "resourcefulconfig",
+      "file": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "version": "2.1.3",
+      "sides": [
+        "server"
+      ]
+    },
+    {
+      "name": "resourcefullib",
+      "file": "resourcefullib-forge-1.20.1-2.1.29.jar",
+      "version": "2.1.29",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "rhino",
+      "file": "rhino-forge-2001.2.3-build.10.jar",
+      "version": "2001.2.3-build.10",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "ritchiesprojectilelib",
+      "file": "ritchiesprojectilelib-2.1.1+mc.1.20.1-forge.jar",
+      "version": "2.1.1",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "rusticdelight",
+      "file": "rusticdelight-forge-1.20.1-1.5.1.jar",
+      "version": "1.5.1",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "sereneseasons",
+      "file": "SereneSeasons-forge-1.20.1-9.1.0.3.jar",
+      "version": "9.1.0.3",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "siegemachines",
+      "file": "siege-machines-1.20.1-forge-1.39 (2).jar",
+      "version": "1.39",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "simplekits",
+      "file": "simplekits-1.1.0.jar",
+      "version": "1.1.0",
+      "sides": [
+        "server"
+      ]
+    },
+    {
+      "name": "smallships",
+      "file": "smallships-forge-1.20.1-2.0.0-b1.4.jar",
+      "version": "2.0.0-b1.4",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "sound_physics_remastered",
+      "file": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+      "version": "1.20.1-1.5.1",
+      "sides": [
+        "client"
+      ]
+    },
+    {
+      "name": "spark",
+      "file": "spark-1.10.53-forge.jar",
+      "version": "1.10.53",
+      "sides": [
+        "server"
+      ]
+    },
+    {
+      "name": "spawn",
+      "file": "spawn-4.0.8-1.20.1.jar",
+      "version": "4.0.8",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "starcatcher",
+      "file": "starcatcher-2.3.19-FORGE-1.20.1.jar",
+      "version": "2.3.19-FORGE-1.20.1",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "structure_layout_optimizer",
+      "file": "structure_layout_optimizer-forge-1.0.11.jar",
+      "version": "1.0.11",
+      "sides": [
+        "server"
+      ]
+    },
+    {
+      "name": "supplementaries",
+      "file": "supplementaries-1.20-3.1.44-forge.jar",
+      "version": "1.20-3.1.44-forge",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "table_top_craft",
+      "file": "table_top_craft-1.20.1-6.1.2.jar",
+      "version": "1.20.1-6.1.2",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "treechop",
+      "file": "TreeChop-1.20.1-forge-0.19.0-fixed.jar",
+      "version": "0.19.0",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "trmt-0.5.1b-1.20.1-forge",
+      "file": "trmt-0.5.1b-1.20.1-forge.jar",
+      "version": "",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "valkyrienskies",
+      "file": "valkyrienskies-120-2.4.11-empirecraft.1.jar",
+      "version": "2.4.11",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "voicechat",
+      "file": "voicechat-forge-1.20.1-2.6.22.jar",
+      "version": "forge-1.20.1-2.6.22",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "vs_sails",
+      "file": "vs_sails-1.20.1-0.3.2-empirecraft.2-forge.jar",
+      "version": "0.3.2-empirecraft.2",
+      "sides": [
+        "client",
+        "server"
+      ]
+    },
+    {
+      "name": "wonderoussea",
+      "file": "wonderoussea-1.0.4-forge-1.20.1.jar",
+      "version": "1.0.0",
+      "sides": [
+        "client",
+        "server"
+      ]
+    }
+  ],
+  "plugins": [
+    "CoreProtect-CE-23.1 (1).jar",
+    "DecentHolograms-2.9.9.jar",
+    "DeluxeMenus-1.14.1-Release.jar",
+    "EssentialsX-2.21.2.jar",
+    "EssentialsXSpawn-2.21.2.jar",
+    "LuckPerms-Bukkit-5.5.36.jar",
+    "PlaceholderAPI-2.12.2.jar",
+    "ProtocolLib.jar",
+    "TAB v5.5.0.jar",
+    "Towny-0.101.2.0.jar",
+    "UTimber-1.1.0.jar",
+    "Vault.jar",
+    "ajLeaderboards-2.10.1.jar",
+    "empirecraft-feudal-1.4.0.jar",
+    "multiverse-core-5.6.1.jar",
+    "multiverse-portals-5.2.1.jar",
+    "rlogin-2.3.jar",
+    "worldedit-bukkit-7.3.1 (2).jar"
+  ]
+}
