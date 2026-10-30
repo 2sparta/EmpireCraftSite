@@ -34,7 +34,7 @@ test('wiki covers the custom mechanics and uses valid categories/related links',
 
 test('all generated internal links, assets and anchors resolve', async () => {
   const files = (await walk(out)).filter(f => f.endsWith('.html'));
-  assert.equal(files.length, articles.length + 5);
+  assert.equal(files.length, articles.length + 6);
   for (const file of files) {
     const html = await readFile(file, 'utf8');
     assert.equal((html.match(/<h1\b/g) || []).length, 1, file);
